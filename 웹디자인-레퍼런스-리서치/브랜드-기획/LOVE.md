@@ -1,4 +1,4 @@
-[기능측면]
+[사용성·기능 측면]
 
 https://www.behance.net/gallery/249142983/Stay-Product-Platform-Redesign/modules/1448914883
 
@@ -39,7 +39,7 @@ https://www.behance.net/gallery/242845057/Bouclair-Website?tracking_source=curat
 
 
 =====================================================
-[디자인]
+[디자인 측면]
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=9&str_no=25339
 
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=9&str_no=25355
@@ -94,7 +94,7 @@ https://www.behance.net/gallery/248801341/Luxury-Fashion-E-commerce-Branding-Web
 
 
 =====================================================
-[그럭저럭 괜찮음]
+[그럭저럭 괜찮은 정도·참고용]
 
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=2&str_no=27064
 
