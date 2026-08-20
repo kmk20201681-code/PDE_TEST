@@ -1,4 +1,5 @@
 [사용성·기능 측면]
+https://www.behance.net/gallery/254259939/Vista-Voyage-Travel-Agency-Website?tracking_source=for_you_logged_in_feed_recommended_tag
 
 https://www.behance.net/gallery/249142983/Stay-Product-Platform-Redesign/modules/1448914883
 
@@ -37,9 +38,26 @@ https://www.behance.net/gallery/241787329/LOOP-Fashion-E-commerce-Branding-Web-D
 
 https://www.behance.net/gallery/242845057/Bouclair-Website?tracking_source=curated_galleries_ui-ux
 
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=24915
 
 =====================================================
 [디자인 측면]
+https://pitapet.imweb.me/
+
+https://shituationcomedy.codextyle.com/ 
+
+https://www.behance.net/gallery/236297067/-LUSH-
+
+https://imweb.me/theme/?&utm_source=da_google&utm_medium=cpm&utm_campaign=bat-google-pmax_freetrial-conversion&utm_content=all-noncommerce_keyword-250822&gad_source=1&gad_campaignid=22777320630&gbraid=0AAAAADLx06z5NXjDFRxxlUdkRODei9Uid&gclid=Cj0KCQjw2_TQBhCnARIsAF3-XhydASGL9X8ycABrOWncKJPCGqiOOHBtHhf7-e7OF0eEIrLN9m0zjPwaAjCTEALw_wcB
+
+
+https://www.behance.net/gallery/253480109/AZENTOS-Branding-Agency-Landing-Page?tracking_source=for_you_logged_in_feed_recommended_tag 
+
+
+https://www.behance.net/gallery/254196221/Wink-Smart-Mobility-Website-Design-UI?tracking_source=for_you_logged_in_feed_recommended_tag
+
+https://www.behance.net/gallery/252626071/Baek-Korean-Bakery-Branding?tracking_source=for_you_logged_in_feed_recommended_similar_user
+
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=9&str_no=25339
 
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=9&str_no=25355
