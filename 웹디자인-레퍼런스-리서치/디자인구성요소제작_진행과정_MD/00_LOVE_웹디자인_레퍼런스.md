@@ -41,7 +41,13 @@ https://www.behance.net/gallery/242845057/Bouclair-Website?tracking_source=curat
 https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=24915
 
 =====================================================
+
+
 [디자인 측면]
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=21981 
+
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=26167
+
 https://pitapet.imweb.me/
 
 https://shituationcomedy.codextyle.com/ 
@@ -134,3 +140,41 @@ https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agn
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=19&str_no=22577
 
 https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=5&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=20&str_no=22374
+
+
+
+
+
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=26392
+
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=22237
+
+
+[메인컨텐츠 페이지 레이아웃 참고] https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=26791
+
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=23889
+
+
+[메인컨텐츠 페이지 레이아웃형식] https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=25352
+
+[상단바, 메인 폴더형식 디자인 참고 ] https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=26889
+
+
+
+[레이아웃 구성 및 디자인 참고]
+https://www.behance.net/gallery/253406303/Eleviq-Premium-Drone-E-commerce-Landing-Page?tracking_source=search_projects|web+design&l=2
+
+https://www.behance.net/gallery/251603059/VORS-ONLINE-STORE-WEBSITE?tracking_source=search_projects|web+design&l=1
+
+https://www.behance.net/gallery/254041507/HAVEN-Luxury-Real-Estate-Branding-UXUI-Design?tracking_source=search_projects|web+design&l=9&bid=258855
+
+https://www.behance.net/gallery/252219001/Dronea-Premium-Drone-Website-UIUX?tracking_source=search_projects|web+design&l=21
+
+https://www.behance.net/gallery/253480109/AZENTOS-Branding-Agency-Landing-Page?tracking_source=search_projects|web+design&l=23
+
+https://www.behance.net/gallery/253297819/uiux-web-graphic-designer?tracking_source=search_projects|web+design&l=133
+
+
+https://www.behance.net/gallery/253685337/Spora-AI-Plant-Care-Platform-Web-App-Design?tracking_source=search_projects|web+design&l=139
+
+https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=22374
